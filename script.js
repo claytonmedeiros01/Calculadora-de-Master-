@@ -6,6 +6,13 @@ function calcular() {
 
     valor4.value = (valor2 * valor3) / valor1;
 
+    if (valor4.value < 1) {
+        alert("Ateção o resultado é  em GRAMAS");
+    }
+    else if (valor4.value > 0.9) {
+        alert("Atenção o resultado é em QUILOS");
+    }
+
 }
 
 function limpar() {
