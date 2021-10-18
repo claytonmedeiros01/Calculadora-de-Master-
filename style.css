@@ -28,8 +28,8 @@
     align-items: center;
     }
 .box{
-    width: 30rem;
-    height: 30rem;
+    width: 25rem;
+    height: 28rem;
     background-color: lightgray;
     border-radius: 20px;
     box-shadow: 0 0 15px rgb(0,0,0,0.5);
@@ -50,7 +50,7 @@
 
 table{
     border: none;
-    width: 30rem;
+    width: 27rem;
     display: flex;
     justify-content: center;
 }
@@ -58,10 +58,10 @@ table{
 .inputs{
     border-width: thin;
     height: 2rem;
-    width: 10rem;
+    width: 8rem;
     margin: 10px;
-    margin-inline: 30px;
-    margin-bottom: 20px;
+    margin-inline: 10px;
+    margin-bottom: 30px;
     padding: 5px;
     border-radius: 4px;
     box-shadow: 0 0 5px rgb(0,0,0,0.5);
@@ -72,7 +72,7 @@ table{
     height: 2rem;
     width: 7rem;
     margin: 20px;
-    margin-inline:60px;
+    margin-inline:50px;
     margin-bottom: 20px;
     padding: 5px;
     border-radius: 4px;
